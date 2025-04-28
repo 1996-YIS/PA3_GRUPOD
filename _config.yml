@@ -4,8 +4,13 @@ description: "Un portafolio profesional construido con Jekyll y siguiendo buenas
 url: "https://eynersalvador.github.io"
 baseurl: "/PA3TDD"
 theme: minima
+
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - LICENSE
+
+# Configuración de plugins
+plugins:
+  - jekyll-feed
