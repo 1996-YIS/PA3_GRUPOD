@@ -1,0 +1,11 @@
+
+title: "Portafolio Eyner"
+description: "Un portafolio profesional construido con Jekyll y siguiendo buenas prácticas de desarrollo"
+url: "https://eynersalvador.github.io"
+baseurl: "/PA3TDD"
+theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE

@@ -1,0 +1,17 @@
+
+{
+  "proyectos": [
+    {
+      "nombre": "Redes",
+      "descripcion": "Proyecto de redes para mejorar la infraestructura de telecomunicaciones."
+    },
+    {
+      "nombre": "Desarrollo Web",
+      "descripcion": "Desarrollo de una plataforma web con HTML, CSS y JS."
+    },
+    {
+      "nombre": "Base de datos",
+      "descripcion": "Gestión de una base de datos para una empresa hotelera."
+    }
+  ]
+}
